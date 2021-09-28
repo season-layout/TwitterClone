@@ -24,3 +24,5 @@ $view_user = $user;
 // ツイート一覧
 $view_tweet = findTweets($user);
 include_once '../Views/home.php';
+
+/////////////////////////////
